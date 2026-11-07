@@ -2,11 +2,11 @@
 
 An immersive, unofficial David Goggins tribute website created by **Armaan Manwatkar**. It brings together endurance photography, an interactive career timeline, books, and original editorial writing in a responsive experience built around expressive typography and motion.
 
-**Live website:** [GOGGINS — THE GRIND](https://goggins-the-grind-armaan.racingmite6.chatgpt.site/)
+**Live website:** [GOGGINS — THE GRIND](https://armaandavidgoggins.vercel.app/)
 
 **Repository:** [Armaan-30/David-Goggins-Website-](https://github.com/Armaan-30/David-Goggins-Website-)
 
-The live deployment may require its owner's access. This repository contains the source code; GitHub Pages hosting is not automatically enabled.
+The live website is hosted on Vercel. This repository contains the source code; GitHub Pages hosting is not automatically enabled.
 
 ## Features
 
@@ -147,7 +147,7 @@ This is a **static frontend**: there are no API routes, server actions, accounts
 
 Run `npm ci` and `npm run build`, then deploy the contents of `out/` to a static host. Keep image and font paths intact. Hosting beneath a repository subpath, such as GitHub Pages project hosting, requires configuring the appropriate Next.js base path and checking asset URLs before deployment.
 
-The existing live site uses Sites. `.openai/hosting.json` records that deployment's project identifier and `out` directory; it contains no credentials. For a separate Sites deployment, obtain your own project identifier rather than reusing the existing one. Building locally does not require the Sites plugin.
+The website is currently deployed on Vercel. `.openai/hosting.json` records the original Sites deployment's project identifier and `out` directory; it contains no credentials. For a separate Sites deployment, obtain your own project identifier rather than reusing the existing one. Building locally does not require the Sites plugin.
 
 ## Credits, sources, and rights
 
