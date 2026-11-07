@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.sites-runtime/
+*.tsbuildinfo
+test-results/
+playwright-report/
+qa/
+
+# Local credentials and deployment archives
+.env*
+!.env.example
+*.tar.gz

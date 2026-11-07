@@ -1,0 +1,149 @@
+{
+  "status": "Unofficial fan-made concept; no endorsement implied",
+  "license": "Archive photographs: U.S. federal government public domain. Book artwork: copyright respective rights holders, sourced from the official author website.",
+  "sourceIndex": "https://commons.wikimedia.org/wiki/Category:David_Goggins",
+  "images": [
+    {
+      "file": "badwater.webp",
+      "title": "David Goggins at Badwater, 2007",
+      "author": "U.S. Navy / Brandon Rogers",
+      "id": "070723-N-6138R-001",
+      "changes": "WebP conversion; CSS grayscale and SVG masking"
+    },
+    {
+      "file": "finish.webp",
+      "title": "Goggins and Keith Davids at Ironman, 2008",
+      "author": "U.S. Navy / Paul D. Honnick",
+      "id": "081011-N-BV344-004",
+      "changes": "Resized, WebP conversion; CSS crops and grayscale"
+    },
+    {
+      "file": "training.webp",
+      "title": "Navy SEAL Fitness Challenge demonstration, Seattle, 2009",
+      "author": "U.S. Navy / Michelle Kapica",
+      "id": "090707-N-5366K-007",
+      "changes": "Resized, WebP conversion; CSS crops and grayscale"
+    },
+    {
+      "file": "navy-seal.webp",
+      "title": "David Goggins at attention with the Naval Academy triathlon team, October 2009",
+      "author": "U.S. Navy / Michelle Kapica",
+      "id": "091030-N-5366K-174",
+      "changes": "WebP conversion; SVG silhouette mask and CSS grayscale",
+      "source": "https://commons.wikimedia.org/wiki/File:US_Navy_091030-N-5366K-174_Special_Warfare_Operator_1st_Class_(SEAL)_David_Goggins_stands_at_attention_with_members_of_the_U.S._Naval_Academy%27s_triathlon_team_as_they_are_recognized_as_Collegiate_National_Champions_at_the_Navy.jpg"
+    },
+    {
+      "file": "cargo.webp",
+      "title": "Goggins and Make-A-Wish recipient on cargo-net obstacle, 2011",
+      "author": "U.S. Navy / Dominique Lasco",
+      "id": "110316-N-KK330-369",
+      "changes": "Resized and WebP converted",
+      "source": "https://commons.wikimedia.org/wiki/Category:David_Goggins"
+    },
+    {
+      "file": "portrait-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 1,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "run-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 8,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "footsteps-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 110,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "interview-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 240,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "training-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 520,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "profile-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 20,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "conversation-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 300,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "running-close-2018.webp",
+      "title": "Nashville interview / running sequence, 2018",
+      "author": "Defense Media Activity / Austin Rooney, Jonathan Snyder, Alexa Trafton",
+      "source": "https://www.dvidshub.net/video/646927/toughest-man-alive-interview-with-david-goggins",
+      "id": "181107-D-D0437-001",
+      "timestampSeconds": 530,
+      "license": "Public domain as labeled by DVIDS; no endorsement implied",
+      "changes": "Extracted still frame, WebP conversion; CSS cropping and optional grayscale; hero also SVG masked"
+    },
+    {
+      "file": "cant-hurt-me-cover.webp",
+      "source": "https://davidgoggins.com/wp-content/uploads/2022/10/cant-hurt-me-group.jpg",
+      "license": "Copyright respective rights holders; official book promotional artwork"
+    },
+    {
+      "file": "never-finished-cover.webp",
+      "source": "https://davidgoggins.com/wp-content/uploads/2022/10/NF_3mil_3d_standing-white-2.jpg",
+      "license": "Copyright respective rights holders; official book promotional artwork"
+    },
+    {
+      "file": "cant-hurt-me-mockup.png",
+      "source": "User-supplied Can\u2019t Hurt Me Book Mockup.png",
+      "license": "Rights remain with respective rights holders"
+    },
+    {
+      "file": "never-finished-mockup.png",
+      "source": "User-supplied Never Finished_ David Goggins Book Mockup.png",
+      "license": "Rights remain with respective rights holders"
+    }
+  ],
+  "fonts": {
+    "name": "Barlow Condensed",
+    "license": "SIL OFL 1.1",
+    "licenseFile": "/fonts/OFL.txt"
+  }
+}
